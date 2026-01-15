@@ -35,7 +35,7 @@
 
 ## 📌 Projects
 - 🔹 **Smart Classroom Lighting System**
-- 🔹 **GPA Calculator System**
+- 🔹 **Result Sheet Analyzer**
 - 🔹 **Personal Portfolio Website**
 - 🔹 **Advanced Light Intensity Indicator**
 ---
