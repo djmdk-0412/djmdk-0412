@@ -38,6 +38,7 @@
 - 🔹 **Result Sheet Analyzer**
 - 🔹 **Personal Portfolio Website**
 - 🔹 **Advanced Light Intensity Indicator**
+- 🔹 **Daily-Task-Planner**
 ---
 ## 📊 GitHub Stats
 <p align="center">
